@@ -8,7 +8,7 @@ namespace Savana.Movie
 {
     public class UI_MovieCard_Item : MonoBehaviour, ISelectHandler, IDeselectHandler
     {
-        //private Model_Result _result;
+        
         private Response_MovieDetail _result;
         private UI_MovieDetailsPage detailsPage;
 
